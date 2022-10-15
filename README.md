@@ -11,7 +11,7 @@ menteenizi, ortak ilgi alanındaki kişilere ulaşarak network ağınızı geni�
 ## Yazılım topluluğuna sağlamak istediği fayda nedir? Bunu nasıl yapacak?
 
 Frontend alanında sıfırdan ileri seviyelere kadar sektöre katkı sağlayacak içerikler üretmek ve topluluğa destek sağlamak istiyoruz. 
-* Her seviyeden **npm paketleri geliştirerek** frontendship topluluğundaki herkesi **GitHub ve açık kaynak contribituon yapmaya teşvik etmek ve referans gösterebilecekleri işler yapmalarına vesile olmak**.
+* Her seviyeden **npm paketleri geliştirerek** frontendship topluluğundaki herkesi **GitHub ve açık kaynak contribution yapmaya teşvik etmek ve referans gösterebilecekleri işler yapmalarına vesile olmak**.
 * Git kullanmak, ekip çalışması yapabilmek, ekosistemde yaygın olarak kullanılan toolların kullanımını ve amaçlarını aktararak da alanda yeni kişileri ilk iş deneyimlerine hazırlamak ve **gerçek iş deneyimine** çok yakın bir geliştirme ortamı oluşturmak.
 * **Sorular sorabilmek veya soruları cevaplayarak** herkesin seviyesini tespit etmesini ve geliştirmesini sağlamak amaçlı yardımlaşmak.
 * **Yüzyüze ve online eventler** düzenlemek ve **farklı topluluklar ile etkileşime geçmeye çalışmak**.
